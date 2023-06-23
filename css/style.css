@@ -1,11 +1,15 @@
 .conteiner{
-    max-width: 1600;
+    max-width: 1600px;
     width: 100%;
     padding: 130px 15.81% 150px 11.93%;
     display: flex;
     gap: 8.59%;
     background-color: #0F172A;
         /* border: 3px solid red; */
+}
+
+.main_img{
+    width: 100%;
 }
 
 h1{
