@@ -1,0 +1,13 @@
+@media (max-width:1410px){
+    .conteiner{
+        padding: 130px 10.81% 150px 6.93%;
+    }
+
+    .google{
+        height: 50%;
+    }
+
+    .sign_in_button{
+        align-items: center;
+    }
+}

@@ -1,0 +1,19 @@
+@media (max-width:1000px){
+.conteiner{
+    flex-direction: column;
+    padding: 80px 10.81% 100px 10.81%;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.main_img{
+height: 487px;
+width: 70%;
+display: flex;
+justify-content: space-around;
+margin-bottom: 20px;
+}
+
+
+}
